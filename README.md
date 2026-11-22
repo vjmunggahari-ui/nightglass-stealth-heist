@@ -1,8 +1,8 @@
 # NIGHTGLASS — steal the Hollow Moon
 
 [![Bounty](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
-[![Rank](https://make.fun/badge/best-stealth-game-20261121-1759/Indramunggahari10/nightglass-stealth-heist/rank.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
-[![Reward](https://make.fun/badge/best-stealth-game-20261121-1759/Indramunggahari10/nightglass-stealth-heist/reward.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![Rank](https://make.fun/badge/best-stealth-game-20261121-1759/vjmunggahari-ui/nightglass-stealth-heist/rank.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![Reward](https://make.fun/badge/best-stealth-game-20261121-1759/vjmunggahari-ui/nightglass-stealth-heist/reward.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
 
 **5 heists · 19 guards · 36 treasures · light is your enemy.**
 
